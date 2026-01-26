@@ -1,5 +1,5 @@
 ---
-title: "EE282 Topic Proposal"
+title: "EE282 Project Topic Proposal"
 author: "Ana Espeleta"
 output: html_document
 date: "2026-01-26"
