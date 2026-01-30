@@ -1,8 +1,7 @@
----
-title: "EE282 Project Topic Proposal"
-author: "Ana Espeleta"
-output: html_document
-date: "2026-01-26"
+# EE282 Project Topic Proposal
+
+**Author:** Ana Espeleta  
+**Date:** 2026-01-26
 
 ---
 
