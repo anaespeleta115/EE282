@@ -1,5 +1,8 @@
 ### EE282 Analysis Proposal - Ana Espeleta 02/09/2026
 
+
+#### Introduction
+
 Understanding how microbial communities respond to antibiotic
 perturbation requires moving beyond taxonomic surveys based on marker
 genes and toward genome-informed descriptions of community composition.
@@ -14,6 +17,8 @@ species-level profiles from metagenomic sequencing data of stool-derived
 in vitro microbial communities and to compare these profiles across
 timepoints and with existing 16S-based measurements of community
 composition.
+
+#### Methodology
 
 This analysis focuses on metagenomic sequencing data from in vitro
 communities derived from subjects sampled before and after an antibiotic
@@ -71,7 +76,11 @@ accommodate this extension will make it possible to analyze strain
 composition in the future. Establishing a reproducible pipeline now will
 therefore support downstream analyses of microbial evolution, strain
 replacement, and fine-scale community dynamics in response to
-perturbation. The proposed analyses are highly feasible within the scope
+perturbation. 
+
+#### Feasibility
+
+The proposed analyses are highly feasible within the scope
 of this project. The metagenomic datasets are already available, and
 MIDAS provides a well-documented framework for species profiling.
 Workflow management tools such as Snakemake are widely used in
@@ -81,6 +90,8 @@ later if time permits. Because the project focuses on processing and
 analyzing existing sequencing data rather than generating new data or
 developing new algorithms, it is well suited to the timeline of the
 assignment.
+
+#### Broader context and conclusions
 
 More broadly, this analysis establishes the first step toward
 genome-resolved functional characterization of antibiotic-perturbed
@@ -100,6 +111,7 @@ composition across antibiotic perturbation conditions, validate
 metagenomic results against existing 16S data, and establish a
 computational foundation for future functional annotation and
 genome-scale metabolic modeling of microbiome responses to perturbation.
+
 
 ### Works Cited
 
