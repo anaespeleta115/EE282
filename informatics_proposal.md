@@ -5,7 +5,7 @@
 
 ---
 
-## Introduction
+# Introduction
 
 The gut microbiome is a complex and dynamic ecosystem shaped by intermicrobial competition for nutrients, physical space, and metabolic niches. These interactions create a community structure that is typically resistant to invasion by new organisms, despite large disturbances to the system. Classic studies of antibiotic-treated hosts demonstrated that disrupting this balance can dramatically increase susceptibility to colonization by opportunistic and pathogenic microbes (Bohnhoff and Miller 1962), highlighting the role of the resident community in maintaining ecological stability. Despite decades of work, the mechanistic basis of this resistance remains incompletely understood, particularly at the level of metabolic niche structure. I am interested in identifying which microbes are able to colonize following an antibiotic perturbation and whether they exploit newly available niche space to establish within the altered community.
 
