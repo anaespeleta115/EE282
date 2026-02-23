@@ -6,7 +6,7 @@ author: "Ana Espeleta"
 ---
 
 
-## Homework 3 — Genome and Annotation Summaries
+## Homework 3: Genome and Annotation Summaries
 
 This document serves as the master report for Homework 3.  
 All commands were executed inside my EE282 GitHub repository on the homework3 branch:
