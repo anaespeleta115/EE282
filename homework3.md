@@ -88,7 +88,8 @@ md5sum -c gtf.md5
 
 Then I got the output:
 
-```dmel-all-r6.66.gtf.gz: OK
+```
+dmel-all-r6.66.gtf.gz: OK
 ```
 
 ### Part 6: Annotation summary
