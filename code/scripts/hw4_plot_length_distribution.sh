@@ -7,11 +7,14 @@ mkdir -p "$OUTDIR"
 
 gzip -dc "$GENOME" | bioawk -c fastx '
 BEGIN {
-    print "seq_name\tseq_length\tpartition"
+    print "seq_name\tseq_length\tgc_percent\tpartition"
 }
 {
     len = length($seq)
+    gc_pct = gc($seq)
+
     part = (len <= 100000 ? "<=100kb" : ">100kb")
-    print $name "\t" len "\t" part
+
+    print $name "\t" len "\t" gc_pct "\t" part
 }
-' > "$OUTDIR/sequence_lengths.tsv"
+' > "$OUTDIR/sequence_stats.tsv"
